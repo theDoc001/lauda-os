@@ -1,0 +1,10 @@
+{
+  "hooks": {
+    "PreCompact": [
+      {
+        "type": "shell",
+        "command": "./system/hooks/pre-compact.sh"
+      }
+    ]
+  }
+}

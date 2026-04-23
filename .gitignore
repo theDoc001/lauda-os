@@ -1,0 +1,34 @@
+# Lauda OS — repo-level .gitignore
+# This file applies to the template repository itself.
+# The template/ directory ships a separate .gitignore that applies to each user's vault.
+
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Editors / IDE state
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian per-machine state (the vault template ships a .obsidian/ config but workspace state is local)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Python / build junk
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local test runs
+/tmp/
+/.local/
+
+# Default firewall: projects/private/ ships gitignored by default.
+# Anything you put in projects/private/ stays local unless you remove this line.
+projects/private/

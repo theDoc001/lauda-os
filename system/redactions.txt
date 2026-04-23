@@ -1,0 +1,12 @@
+# redactions.txt
+# One literal string per line. PreCompact hook replaces each with [REDACTED-EMPLOYER] (default label)
+# before archiving session transcripts.
+#
+# Keep this list short and specific. Overbroad patterns produce false positives in archives.
+#
+# Format: just the literal string, one per line. Lines starting with # are comments.
+#
+# Examples (edit for your situation):
+# Acme Corporation
+# acme.com
+# Client-Alpha-Project
