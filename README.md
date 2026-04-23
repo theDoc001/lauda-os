@@ -5,6 +5,8 @@ projects in parallel. Extends Obsidian and Claude to hold your work, keep
 the racing lines clean between projects, and make your voice carry across
 everything you ship.
 
+<img width="1800" height="1100" alt="Image" src="https://github.com/user-attachments/assets/88a9e8f3-bd9a-4354-a79d-47d8d380f16a" />
+
 > Lauda is the voice in your ear during every stint and the engineer who
 > takes the car apart after. He saves what you decided yesterday, keeps the
 > lines between your projects clean, and calls the warning before you drift
