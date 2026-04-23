@@ -73,7 +73,7 @@ Hello wizard
 Either route ends with the wizard scaffolding your vault and archiving
 itself. Open `system/MANUAL.md` to learn the daily loop.
 
-## The 80/20
+## The gist of it
 
 Four ideas do most of the work.
 
@@ -93,6 +93,7 @@ Four ideas do most of the work.
      tag hygiene, folder drift. Files a proposal, never rewrites.
    - **Principal (monthly):** steps back. Reviews direction, scans online
      topics you follow, flags shifts in the landscape worth noticing.
+     
 3. **Archive, never delete.** Everything retired moves to `archive/` with
    a timestamp. Nothing is ever gone.
 4. **Obsidian is the graph.** Use Obsidian for navigation, backlinks, and
